@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "5c8a1d5b0190b214360dc057",
+    "name": "Mamadou Seck",
+    "email": "admin@vogue.com",
+    "role": "admin",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+    "password": "$2a$12$Q0grHjH9PXc6SxivC8m12.2mZJ9BbKcgFpwSG4Y1ZEII8HJVzWeyS"
+  },
+  {
+    "_id": "5c8a201e2f8fb814b56fa186",
+    "name": "Kate Morrison",
+    "email": "kate@example.com",
+    "role": "seller",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1614436163996-25cee5f54290?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=742&q=80",
+    "password": "$2a$12$II1F3aBSFDF3Xz7iB4rk/.a2dogwkClMN5gGCWrRlILrG1xtJG7q6"
+  },
+  {
+    "_id": "5c8a20d32f8fb814b56fa187",
+    "name": "Eliana Stout",
+    "email": "eliana@example.com",
+    "role": "seller",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1546961329-78bef0414d7c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "password": "$2a$12$Jb/ILhdDV.ZpnPMu19xfe.NRh5ntE2LzNMNcsty05QWwRbmFFVMKO"
+  },
+  {
+    "_id": "5c8a23c82f8fb814b56fa18d",
+    "name": "Laura Wilson",
+    "email": "laura@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "password": "$2a$12$VPYaAAOsI44uhq11WbZ5R.cHT4.fGdlI9gKJd95jmYw3.sAsmbvBq"
+  },
+  {
+    "_id": "5c8a23de2f8fb814b56fa18e",
+    "name": "Max Smith",
+    "email": "max@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1639149888905-fb39731f2e6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+    "password": "$2a$12$l5qamwqcqC2NlgN6o5A5..9Fxzr6X.bjx/8j3a9jYUHWGOL99oXlm"
+  },
+  {
+    "_id": "5c8a24282f8fb814b56fa18f",
+    "name": "Isabel Kirkland",
+    "email": "isabel@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "password": "$2a$12$IUnwPH0MGFeMuz7g4gtfvOll.9wgLyxG.9C3TKlttfLtCQWEE6GIu"
+  },
+  {
+    "_id": "5c8a24402f8fb814b56fa190",
+    "name": "Alexander Jones",
+    "email": "alex@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "password": "$2a$12$NnclhoYFNcSApoQ3ML8kk.b4B3gbpOmZJLfqska07miAnXukOgK6y"
+  },
+  {
+    "_id": "5c8a245f2f8fb814b56fa191",
+    "name": "Eduardo Hernandez",
+    "email": "edu@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "password": "$2a$12$uB5H1OxLMOqDYTuTlptAoewlovENJvjrLwzsL1wUZ6OkAIByPPBGq"
+  },
+  {
+    "_id": "5c8a24822f8fb814b56fa192",
+    "name": "John Riley",
+    "email": "john@example.com",
+    "role": "user",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "password": "$2a$12$11JElTatQlAFo1Obw/dwd..vuVmQyYS7MT14pkl3lRvVPjGA00G8O"
+  },
+  {
+    "_id": "5c8a24a02f8fb814b56fa193",
+    "name": "Lisa Brown",
+    "email": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "role": "user",
+    "active": true,
+    "photo": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
+    "password": "$2a$12$uA9FsDw63v6dkJKGlLQ/8ufYBs8euB7kqIQewyYlZXU5azEKeLEky"
+  }
+]
